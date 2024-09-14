@@ -7,7 +7,6 @@
 - 📫 You can reach me at: 
 - Linkedin https://www.linkedin.com/in/gabriel-de-oliveira-floriano-aaa8731b7/
 - E-mail gabrieldeoliveiraflorirano@gmail.com
-- 
 <!---
 GabrielFloriano03/GabrielFloriano03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
